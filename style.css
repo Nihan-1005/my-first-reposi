@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.developer{
+    padding-top: 10px;
+}
+
+.developer-name{
+    color: orange;
+}
+
+.top-banner p{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+h2{
+    color: violet;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: #ffffff;
+    font-weight: 400;
+    padding: 10px 15px;
+    border-radius: 15px;
+
+}
+
+.top-banner{
+    padding-top: 30px;
+    display: flex;
+}
+
+.intro{
+    width: 50%;
+    padding-left: 05%;
+}
+
+.intro img{
+    width: 80%;
+    border-radius: 50%;
+}
+
+span{
+    color: tomato;
+}
+
+.mission-2022{
+    padding-top: 30px;
+
+}
+
+.mission-2022 h1{
+    padding-bottom: 15px;
+}
+
+.mission-title{
+    text-align: center;
+    font-weight: 800;
+    color: orangered;
+}
+
+.col-33{
+    width: 33%;
+    float: left;
+    padding: 0 40px;
+}
+
+.col-33 p{
+    font-size: 14px;
+}
+
+.mission-image{
+    padding-bottom: 50px;
+}
